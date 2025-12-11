@@ -117,27 +117,6 @@ header button:hover {
     transition: all 0.5s;
 }
 
-.hero-buttons button:first-child {
-    background-color: #3287FF;
-    color: white;
-    border-color: #3287FF;
-}
-.hero-buttons button:first-child:hover {
-    background-color: #FF8A3D;
-    border-color: #FF8A3D;
-}
-
-.hero-buttons button:last-child {
-    background-color: transparent;
-    color: #2F2F2F;
-    border-color: #2F2F2F;
-}
-.hero-buttons button:last-child:hover {
-    color: #3287FF;
-    border-color: #3287FF;
-}
-
-
 .hero-image {
     flex: 1;
     min-height: 400px;
@@ -181,9 +160,6 @@ header button:hover {
     margin: 8px auto;
     width: 80%;
     border-radius: 2px;
-}
-.description-lines p:last-child {
-    width: 60%;
 }
 
 .results-section {
