@@ -1,2 +1,2 @@
 # wdd130-steinhour
-My web address is https://roquethis.github.io/wdd130-steinhour My Junior Devs are: 
+My web address is https://roquethis.github.io/wdd130-steinhour My Junior Devs are: Forrest Hickman and Sophia Demmerly
