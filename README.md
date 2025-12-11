@@ -1,2 +1,2 @@
 # wdd130-steinhour
-BYUI Description
+My web address is https://roquethis.github.io/wdd130-steinhour My Junior Devs are: 
